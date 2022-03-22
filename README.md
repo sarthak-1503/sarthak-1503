@@ -7,13 +7,13 @@
 <!--ABOUT ME CODE-->
 🌱 **About myself**<br>
 
-✔️ I am **Japnit Singh**, currently pursuing my bachelors from Delhi Technological University in *Mathematics and Computing*. <br>
+✔️ I am **Sarthak Arora**, currently pursuing my bachelors from Delhi Technological University in *Computer Engineering*. <br>
 
-✔️ I am interested in development. I also enjoy doing competitive programming. <br>
+✔️ I am interested in web development. I also enjoy doing competitive programming. <br>
 
-✔️ I have experience in FULL stack web development and Deep Learning.<br>
+✔️ I have a good experience in FULL STACK web development.<br>
 
-✔️ I have been the participant of  open-source event such as HacktoberFest'20.
+✔️ I have been a participant of open-source event such as HacktoberFest'20.
 
 <br>
 
@@ -23,9 +23,9 @@
 
 
 <!-- SOCAIL MEDIA HANDLES -->
-[![Linkedin Badge](https://img.shields.io/badge/-JapnitSingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/japnitsingh/)](https://www.linkedin.com/in/japnitsingh/)
+[![Linkedin Badge](https://img.shields.io/badge/-SarthakArora-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sarthak--arora/)](https://www.linkedin.com/in/sarthak--arora/)
 
-[![Gmail Badge](https://img.shields.io/badge/-japnit2012@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:japnit2012@gmail.com)](mailto:japnit2012@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-sarthakarora1503@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sarthakarora1503@gmail.com)](mailto:sarthakarora1503@gmail.com)
 
 ---
 

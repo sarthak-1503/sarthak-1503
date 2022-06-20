@@ -7,9 +7,9 @@
 <!--ABOUT ME CODE-->
 🌱 **About myself**<br>
 
-✔️ I am **Sarthak Arora**, currently pursuing my bachelors from Delhi Technological University in *Computer Engineering*. <br>
+✔️ I am **Sarthak Arora**, graduated from Delhi Technological University in *Computer Engineering*. <br>
 
-✔️ I am interested in web development. I also enjoy doing competitive programming. <br>
+✔️ I am interested in Web Development. I also enjoy doing Competitive Programming. <br>
 
 ✔️ I have a good experience in FULL STACK web development.<br>
 

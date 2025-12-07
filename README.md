@@ -57,7 +57,7 @@
 ---
  
 <!-- ACTIVITY GRAPH TRACKER -->
-[![Japnit's github activity graph](https://activity-graph.herokuapp.com/graph?username=sarthak-1503&theme=redical)](https://github.com/sarthak-1503/github-readme-activity-graph)
+[![Sarthak's github activity graph](https://activity-graph.herokuapp.com/graph?username=sarthak-1503&theme=redical)](https://github.com/sarthak-1503/github-readme-activity-graph)
 
   
 
